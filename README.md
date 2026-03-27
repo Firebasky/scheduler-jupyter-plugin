@@ -2,6 +2,7 @@
 
 A JupyterLab extension.
 
+
 This extension is composed of a Python package named `scheduler_jupyter_plugin`
 for the server extension and a NPM package named `scheduler-jupyter-plugin`
 for the frontend extension.
